@@ -6,8 +6,8 @@
     },
     "database": {
         "host": "localhost",
-        "user": "user",
-        "password": "password",
+        "user": "yukon",
+        "password": "yukon",
         "database": "yukon",
         "dialect": "mysql",
         "debug": false,
